@@ -34,7 +34,7 @@ public interface IHelloWorldService : IServiceBase
 
 |**master**|
 |--|
-|[![Build status](https://ci.appveyor.com/api/github/webhook?id=4ejubgv9v2x8adal/branch/master?svg=true)]|
-
+[![Build status](https://ci.appveyor.com/api/projects/status/jvpyi042ggbje2r7/branch/master?svg=true)](https://ci.appveyor.com/project/MeatDuckXp/service-basis/branch/master)
+ 
 # Contributing
 This project welcomes contributions and suggestions. 
