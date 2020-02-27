@@ -18,3 +18,23 @@ Some of the main project objectives are:
 - Install Nuget package `ServiceBasis`
 
 # Example Usage
+
+```C#
+public interface IHelloWorldService : IServiceBase
+{
+   void PrintHelloWorld();
+
+   void SumIt();
+
+   string Version { get; }
+}
+```
+
+# Build Status
+
+|**master**|
+|--|
+|[![Build status](https://ci.appveyor.com/api/github/webhook?id=4ejubgv9v2x8adal/branch/master?svg=true)]|
+
+# Contributing
+This project welcomes contributions and suggestions. 
