@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>ServiceBasis</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Professor Balthazar</Authors>
+    <Product>ServiceBasis</Product>
+    <PackageTags>plugin, plug in, extension, application extension, app extension, applicaiton plugIn, app-ex, service basis, service basis</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Professor Balthazar</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/MeatDuckXp/servicebasis</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/MeatDuckXp/servicebasis</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
