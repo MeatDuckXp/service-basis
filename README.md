@@ -31,8 +31,7 @@ public interface IHelloWorldService : IServiceBase
 ```
 
 # Build Status
-
-<img class="status-badge-image" src="https://vedranfilipovic.visualstudio.com/Build/_apis/build/status/Servicebasis?branchName=master" alt="Example status badge for this pipeline.">
+[![Build Status](https://vedranfilipovic.visualstudio.com/Build/_apis/build/status/Servicebasis?branchName=master)](https://vedranfilipovic.visualstudio.com/Build/_build/latest?definitionId=2&branchName=master)
  
 # Contributing
 This project welcomes contributions and suggestions. 
