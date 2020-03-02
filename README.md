@@ -34,7 +34,7 @@ public interface IHelloWorldService : IServiceBase
 
 |**master**|
 |--|
-[![Build status](https://ci.appveyor.com/api/projects/status/jvpyi042ggbje2r7/branch/master?svg=true)](https://ci.appveyor.com/project/MeatDuckXp/service-basis/branch/master)
+[![Build Status](https://vedranfilipovic.visualstudio.com/Build/_apis/build/status/Servicebasis?branchName=master)](https://vedranfilipovic.visualstudio.com/Build/_build/latest?definitionId=2&branchName=master)
  
 # Contributing
 This project welcomes contributions and suggestions. 
