@@ -1,4 +1,4 @@
-![Category overview screenshot](docs/images/logo.png "Base for the plug in")
+![Category overview screenshot](docs/images/logo.jpg "Base for the plug in architecture")
 
 # Service base
 The idea behind the service base project is to provide a simple tool to support the plugin architecture. The host application would use the service base packages in order to define the service interface and to load the service implementations without knowing anything about their implementaiton.
