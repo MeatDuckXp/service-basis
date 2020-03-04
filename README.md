@@ -1,15 +1,15 @@
-![Category overview screenshot](docs/images/logo_w.png "Base for the plug in")
+![Category overview screenshot](docs/images/logo.png "Base for the plug in")
 
 # Service base
-The idea behind the service base project is to provide a simple tool to support the plug in architecure. The host applicaiton would use the service base packages in order to define the service inteface and to load the service implementaitions wihout knowing anything about their implementaiton.
+The idea behind the service base project is to provide a simple tool to support the plugin architecture. The host application would use the service base packages in order to define the service interface and to load the service implementations without knowing anything about their implementaiton.
 
-Project Objectives 
+# Project Objectives 
 
 Some of the main project objectives are:
 
-- Provide a simple model to create applicaiton extensions
-- Provide the application core just enough infomration to know how to access the extension implemenation and how to load it
-- Enable developers parallel development. Features can be implemented as separate components and developed in parallel by different teams.
+- Provide a simple model to create application extensions
+- Provide the application core just enough information to know how to access the extension implementation and how to load it
+- Enable developers to parallel development. Features can be implemented as separate components and developed in parallel by different teams.
 - Enforce simplicity since a plugin typically has one function, and so developers have a single focus
  
 # Installation
