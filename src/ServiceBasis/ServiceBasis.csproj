@@ -15,12 +15,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="LightInject" Version="6.2.0" />
+    <PackageReference Include="LightInject" Version="6.3.1" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\ServiceBasis.Abstraction\ServiceBasis.Abstraction.csproj" />
+    <PackageReference Include="ServiceBasis.Abstraction" Version="1.0.2" />
   </ItemGroup>
 
 </Project>

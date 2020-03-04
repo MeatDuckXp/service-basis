@@ -11,10 +11,10 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="ServiceBasis.Abstraction" Version="1.0.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\ServiceBasis.Abstraction\ServiceBasis.Abstraction.csproj" />
     <ProjectReference Include="..\..\src\ServiceBasis\ServiceBasis.csproj" />
   </ItemGroup>
 
