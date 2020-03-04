@@ -31,6 +31,8 @@ public interface IHelloWorldService : IServiceBase
 ```
 
 # Build Status
+|**master**|
+|--|
 [![Build status](https://ci.appveyor.com/api/projects/status/qmvq89f1p4y9fk0p/branch/master?svg=true)](https://ci.appveyor.com/project/MeatDuckXp/ServiceBasis/branch/master)
  
 # Contributing
